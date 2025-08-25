@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("img.avif") no-repeat;
+    background: url("../pictures/1.jfif") no-repeat;
     background-size: cover;
     background-position: center;
 }
